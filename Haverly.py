@@ -6,3 +6,4 @@ cqm = ConstrainedQuadraticModel()
 
 # constraints
 
+# sampling
